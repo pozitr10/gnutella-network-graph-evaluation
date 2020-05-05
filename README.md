@@ -11,3 +11,4 @@ Datasets are taken from SNAP Stanford Dataset library. Thus, copyrights of this 
 
 This python code can be modifable and usable for 3rd parties but needs citation as well.
 
+![Simple Example of Finding shortest Path](https://github.com/pozitr10/gnutella-network-graph-evaluation/blob/master/simpleExample.png)
