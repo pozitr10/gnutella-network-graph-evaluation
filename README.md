@@ -19,5 +19,8 @@ Complex Example of Finding shortest Path
 ![Complex Example of Finding shortest Path](https://github.com/pozitr10/gnutella-network-graph-evaluation/blob/master/complexExample.png)
 
 
+Comparison example for 3-alogirthms with same scale iteration:
+![comparison](https://github.com/pozitr10/gnutella-network-graph-evaluation/blob/master/600iteration_results.JPG)
+
 Download Datasets:
 https://snap.stanford.edu/data/p2p-Gnutella31.html
